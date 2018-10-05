@@ -1,0 +1,4 @@
+baseURL = "https://cheriebearie.github.io/"
+languageCode = "en-us"
+title = "Cherie Tan"
+theme = "paper"
